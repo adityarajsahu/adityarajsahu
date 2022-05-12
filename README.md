@@ -15,13 +15,13 @@
 
 - 🤝 I’m looking for help with [GitHub Integration Project](https://github.com/adityarajsahu/GitHub-Integration.git)
 
-- 👨‍💻 All of my projects are available at [https://github.com/adityarajsahu?tab=repositories](https://github.com/adityarajsahu?tab=repositories)
+- 👨‍💻 All of my projects are available at [this link](https://github.com/adityarajsahu?tab=repositories)
 
 - 💬 Ask me about **Machine Learning & Computer Vision**
 
 - 📫 How to reach me **adityaraj2019.sahu@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GnsOzjI6CSRiituXDMvsX-LVuVcj8Bv7/view?usp=sharing](https://drive.google.com/file/d/1GnsOzjI6CSRiituXDMvsX-LVuVcj8Bv7/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1GnsOzjI6CSRiituXDMvsX-LVuVcj8Bv7/view?usp=sharing)
 
 - ⚡ Fun fact **I thought backend development is easy 🥲**
 
