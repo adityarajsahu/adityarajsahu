@@ -1,3 +1,4 @@
+[![MasterHead](https://c.tenor.com/DBqjevyA2o4AAAAM/bongo-cat-codes.gif)](https://github.com/adityarajsahu)
 <h1 align="center">Hi 👋, I'm Adityaraj Sahu</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/69/20/fc/6920fc266ea0a8bfbb02561dfdd18f1c.png">
