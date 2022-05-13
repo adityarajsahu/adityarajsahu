@@ -100,4 +100,4 @@
 
 GitHub Streaks | GitHub Stats | Top Languages |
 | --- | --- | --- |
-![Aditya's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=adityarajsahu&) | ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityarajsahu&show_icons=true&locale=en) | ![Aditya's top languages](https://github-readme-stats.vercel.app/api/top-langs?username=adityarajsahu&show_icons=true&locale=en&layout=compact) |
+![Aditya's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=adityarajsahu&) | ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityarajsahu&show_icons=true&locale=en) | ![Aditya's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityarajsahu) |
