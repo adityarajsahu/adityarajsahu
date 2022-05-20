@@ -7,25 +7,34 @@
   <img src="https://profile-counter.glitch.me/adityarajsahu/count.svg" />
 </p>
 
-<img align="right" alt="Coding" width="375" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif">
+<div style="float:left">
+  
+  - 🔭 I’m currently working on [Web-based chat application](https://github.com/adityarajsahu/LetsChat.git)
 
-- 🔭 I’m currently working on [Web-based chat application](https://github.com/adityarajsahu/LetsChat.git)
+  - 🌱 I’m currently learning **ReactJS, NestJS**
 
-- 🌱 I’m currently learning **ReactJS, NestJS**
+  - 👯 I’m looking to collaborate on [Auto Image Annotation Tool](https://github.com/adityarajsahu/Image-Annotation-Tool.git)
 
-- 👯 I’m looking to collaborate on [Auto Image Annotation Tool](https://github.com/adityarajsahu/Image-Annotation-Tool.git)
+  - 🤝 I’m looking for help with [GitHub Automation Project](https://github.com/adityarajsahu/GitHub-Automation.git)
 
-- 🤝 I’m looking for help with [GitHub Integration Project](https://github.com/adityarajsahu/GitHub-Integration.git)
+  - 👨‍💻 All of my projects are available at [this link](https://github.com/adityarajsahu?tab=repositories)
 
-- 👨‍💻 All of my projects are available at [this link](https://github.com/adityarajsahu?tab=repositories)
+  - 💬 Ask me about **Machine Learning & Computer Vision**
 
-- 💬 Ask me about **Machine Learning & Computer Vision**
+  - 📫 How to reach me **adityaraj2019.sahu@gmail.com**
 
-- 📫 How to reach me **adityaraj2019.sahu@gmail.com**
+  - 📄 Know about my experiences [here](https://drive.google.com/file/d/1GnsOzjI6CSRiituXDMvsX-LVuVcj8Bv7/view?usp=sharing)
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1GnsOzjI6CSRiituXDMvsX-LVuVcj8Bv7/view?usp=sharing)
+  - ⚡ Fun fact **I thought backend development is easy 🥲**
+</div>
 
-- ⚡ Fun fact **I thought backend development is easy 🥲**
+<div style="float:right">
+  <img align="right" alt="Coding" width="375" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif">
+</div>
+
+
+
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
