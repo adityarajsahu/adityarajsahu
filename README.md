@@ -7,33 +7,26 @@
   <img src="https://profile-counter.glitch.me/adityarajsahu/count.svg" />
 </p>
 
-<div style="float:left">
-  
-  - 🔭 I’m currently working on [Web-based chat application](https://github.com/adityarajsahu/LetsChat.git)
+<img align="right" alt="Coding" width="375" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif">
 
-  - 🌱 I’m currently learning **ReactJS, NestJS**
+ 
+- 🔭 I’m currently working on [Web-based chat application](https://github.com/adityarajsahu/LetsChat.git)
 
-  - 👯 I’m looking to collaborate on [Auto Image Annotation Tool](https://github.com/adityarajsahu/Image-Annotation-Tool.git)
+- 🌱 I’m currently learning **ReactJS, NestJS**
 
-  - 🤝 I’m looking for help with [GitHub Automation Project](https://github.com/adityarajsahu/GitHub-Automation.git)
+- 👯 I’m looking to collaborate on [Auto Image Annotation Tool](https://github.com/adityarajsahu/Image-Annotation-Tool.git)
 
-  - 👨‍💻 All of my projects are available at [this link](https://github.com/adityarajsahu?tab=repositories)
+- 🤝 I’m looking for help with [GitHub Automation Project](https://github.com/adityarajsahu/GitHub-Automation.git)
 
-  - 💬 Ask me about **Machine Learning & Computer Vision**
+- 👨‍💻 All of my projects are available at [this link](https://github.com/adityarajsahu?tab=repositories)
 
-  - 📫 How to reach me **adityaraj2019.sahu@gmail.com**
+- 💬 Ask me about **Machine Learning & Computer Vision**
 
-  - 📄 Know about my experiences [here](https://drive.google.com/file/d/1GnsOzjI6CSRiituXDMvsX-LVuVcj8Bv7/view?usp=sharing)
+- 📫 How to reach me **adityaraj2019.sahu@gmail.com**
 
-  - ⚡ Fun fact **I thought backend development is easy 🥲**
-</div>
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1GnsOzjI6CSRiituXDMvsX-LVuVcj8Bv7/view?usp=sharing)
 
-<div style="float:right">
-  <img align="right" alt="Coding" width="375" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif">
-</div>
-
-
-
+- ⚡ Fun fact **I thought backend development is easy 🥲**
 
 
 <h3 align="center">Connect with me:</h3>
