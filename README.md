@@ -7,7 +7,7 @@
   <img src="https://profile-counter.glitch.me/adityarajsahu/count.svg" />
 </p>
 
-<img align="right" alt="Coding" width="375" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif">
+<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif">
 
  
 - 🔭 I’m currently working on [Web-based chat application](https://github.com/adityarajsahu/LetsChat.git)
