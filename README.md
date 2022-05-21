@@ -100,7 +100,10 @@
 
 ### <h2 align="center">Quick stats about me</h2>
 
-
+<summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/adityarajsahu"><img alt="adityarajsahu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=adityarajsahu&custom_title=adityarajsahu's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
 
 GitHub Streaks | GitHub Stats | Top Languages |
 | --- | --- | --- |
