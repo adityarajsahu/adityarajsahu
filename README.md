@@ -7,7 +7,7 @@
   <img src="https://profile-counter.glitch.me/adityarajsahu/count.svg" />
 </p>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg" />
 
  
 - 🔭 I’m currently working on [Web-based chat application](https://github.com/adityarajsahu/LetsChat.git)
