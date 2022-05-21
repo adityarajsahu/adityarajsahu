@@ -1,5 +1,4 @@
-[![MasterHead](https://indoanalytica.com/static/images/banner-2.gif)](https://github.com/adityarajsahu)
-<h1 align="center">Hi 👋, I'm Adityaraj Sahu</h1>
+<h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, I'm Adityaraj Sahu</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
 <p align="center"> 
