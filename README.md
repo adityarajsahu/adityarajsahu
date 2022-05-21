@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, I'm Adityaraj Sahu</h1>
-<h3 align="center">A passionate software developer from India</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Software+Developer+from+India;Interested+in+ML+%7C+CV+%7C+Full-Stack)](https://git.io/typing-svg)
 
 <p align="center"> 
   Visitors count:<br>
