@@ -18,7 +18,7 @@
 
 - 👯 I’m looking to collaborate on [Auto Image Annotation Tool](https://github.com/adityarajsahu/Image-Annotation-Tool.git)
 
-- 🤝 I’m looking for help with [GitHub Automation Project](https://github.com/adityarajsahu/GitHub-Automation.git)
+- 🤝 I’m looking for help with [Sociout](https://github.com/adityarajsahu/Sociout.git)
 
 - 👨‍💻 All of my projects are available at [this link](https://github.com/adityarajsahu?tab=repositories)
 
@@ -26,7 +26,7 @@
 
 - 📫 How to reach me **adityaraj2019.sahu@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1GnsOzjI6CSRiituXDMvsX-LVuVcj8Bv7/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1qkfzHjM7wn6S8rL5Tkd4gZfyDkjiNXNc/view?usp=sharing)
 
 - ⚡ Fun fact **I thought frontend development is easy 😓**
 
