@@ -105,7 +105,9 @@
 
 <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   [![Aditya's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=adityarajsahu&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+   <a href="https://github.com/adityarajsahu">
+    <img alt="adityarajsahu's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=adityarajsahu&theme=react" />     
+   </a>
   <br/>
 
 GitHub Streaks | GitHub Stats | Top Languages |
