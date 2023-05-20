@@ -18,7 +18,7 @@
 
 - 👯 I’m looking to collaborate on [Auto Image Annotation Tool](https://github.com/adityarajsahu/Image-Annotation-Tool.git)
 
-- 🤝 I’m looking for help with [Sociout](https://github.com/adityarajsahu/Sociout.git)
+- 🤝 I’m looking for help with [Rasa-Chatbot](https://github.com/adityarajsahu/Rasa-Chatbot.git)
 
 - 👨‍💻 All of my projects are available at [this link](https://github.com/adityarajsahu?tab=repositories)
 
