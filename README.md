@@ -104,7 +104,7 @@
 <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/adityarajsahu">
-    <img alt="adityarajsahu's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=adityarajsahu&theme=react" />     
+    <img alt="adityarajsahu's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=adityarajsahu&theme=tokyo-night" />     
    </a>
   <br/>
 
