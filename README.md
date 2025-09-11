@@ -4,11 +4,6 @@
   <a href="[https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=AI+Engineer+from+India;Interested+in+Gen+AI%2C+CV+%26+NLP"></a>
 </p>
 
-<p align="center"> 
-  Visitors count:<br>
-  <img src="https://profile-counter.glitch.me/adityarajsahu/count.svg" />
-</p>
-
 <img width="50%" align="right" alt="Coding" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg" />
 
  
