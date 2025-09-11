@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30" height="30">, I'm Adityaraj Sahu</h1>
 
 <p align="center">
-  <a href="[https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer+from+India;Interested+in+ML%2C+CV+%26+Full-Stack"></a>
+  <a href="[https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=AI+Engineer+from+India;Interested+in+Generative+AI%2C+CV+%26+NLP"></a>
 </p>
 
 <p align="center"> 
