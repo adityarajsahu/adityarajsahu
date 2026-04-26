@@ -46,17 +46,11 @@ def get_motivated(feeling: str) -> str:
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working on **Agentic, Multimodal & Edge AI** at Miko.ai
-
 - 🧠 Deep into teaching machines to see, think, and occasionally hallucinate responsibly
-
-- 🌱 Always exploring new ways to push **inference speed** to the limit
 
 - 👯 Open to collaborate on **AI/ML research & production systems**
 
 - 🏆 3× Hackathon Winner — AWS (2×) & Dr. Reddy's
-
-- 👨‍💻 All my projects are at [github.com/adityarajsahu](https://github.com/adityarajsahu?tab=repositories)
 
 - 💬 Ask me about AI, or literally anything — I'll somehow relate it back to AI 😅
 
