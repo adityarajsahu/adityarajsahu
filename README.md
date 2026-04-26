@@ -42,7 +42,7 @@ def get_motivated(feeling: str) -> str:
 ```
 
 ---
-<img width="50%" align="right" alt="Coding GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJydHo4YWszbWs3aGRycnJnZmZheWJnaHg5Y3BwMnpmdmZybnNydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ucByq0Z570KzOiUQlU/giphy.gif" />
+<img width="50%" align="right" alt="Coding GIF" src="https://media.giphy.com/media/ucByq0Z570KzOiUQlU/giphy.gif" />
 
 ### 👨‍💻 About Me
 
