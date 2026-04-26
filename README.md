@@ -1,108 +1,149 @@
-<h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30" height="30">, I'm Adityaraj Sahu</h1>
+
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hey there, I'm Adityaraj Sahu
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 <p align="center">
-  <a href="[https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=AI+Engineer+from+India;Interested+in+Gen+AI%2C+CV+%26+NLP"></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=AI+Engineer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Interested+in+LLMs+%2C+CV+%26+Multimodal+AI;Making+robots+understand+the+world+%F0%9F%A4%96" alt="Typing SVG" />
+  </a>
 </p>
-
-<img width="50%" align="right" alt="Coding" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg" />
-
- 
-- 🔭 I’m currently working on [Northern-Lights](https://github.com/adityarajsahu/Northern-Lights.git)
-
-- 🌱 I’m currently learning **ReactJS**
-
-- 👯 I’m looking to collaborate on [Auto Image Annotation Tool](https://github.com/adityarajsahu/Image-Annotation-Tool.git)
-
-- 🤝 I’m looking for help with [Rasa-Chatbot](https://github.com/adityarajsahu/Rasa-Chatbot.git)
-
-- 👨‍💻 All of my projects are available at [this link](https://github.com/adityarajsahu?tab=repositories)
-
-- 💬 Ask me about **Machine Learning & Computer Vision**
-
-- 📫 How to reach me **adityaraj2019.sahu@gmail.com**
-
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1qkfzHjM7wn6S8rL5Tkd4gZfyDkjiNXNc/view?usp=sharing)
-
-- ⚡ Fun fact **I thought frontend development is easy 😓**
-
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/adityaraj_sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityaraj_sahu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/adityaraj-sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityaraj-sahu" height="30" width="40" /></a>
-<a href="https://instagram.com/aadityaraj_sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aadityaraj_sahu" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/adityaraj_sahu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="adityaraj_sahu" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/adityaraj_sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adityaraj_sahu" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/adityaraj_sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="adityaraj_sahu" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/adityarajsahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adityarajsahu" height="30" width="40" /></a>
-</p>
-
-<br><br>
-
-<h2 align="center">
-  💻Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" height="30">
-</h2>
 
 <p align="center">
-    <!-- C -->
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-    <!-- C++ -->
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-    <!-- Java -->
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-    <!-- Javascript -->
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-    <!-- Python -->
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-    <!-- HTML -->
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-    <!-- CSS -->
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-    <!-- Bootstrap -->
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-    <!-- Nodejs -->
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-    <!-- Expressjs -->
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-    <!-- Flask -->
-    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
-    <!-- Django -->
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-django-3628732-3029957.png" alt="django" width="40" height="40"/> </a>
-    <!-- Pandas -->
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-    <!-- OpenCV -->
-    <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-    <!-- Scikit Learn -->
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-    <!-- Tensorflow -->
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-    <!-- Pytorch -->
-    <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-    <!-- PostgreSQL -->
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-    <!-- MongoDB -->
-    <a href="https://www.mongodb.com/docs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-    <!-- Matlab -->
-    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>  
-    <!-- Postman -->
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-    <!-- Arduino -->
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>  
-    <!-- Git -->
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
-    <!-- Linux -->
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+  <a href="https://linkedin.com/in/adityaraj-sahu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:adityaraj2019.sahu@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/adityarajsahu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=adityarajsahu&style=for-the-badge&color=6d28d9" alt="Profile views"/>
 </p>
 
-### <h2 align="center">Quick stats about me</h2>
+---
 
-<summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/adityarajsahu">
-    <img alt="adityarajsahu's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=adityarajsahu&theme=tokyo-night" />     
-   </a>
-  <br/>
+```python
+def get_motivated(feeling: str) -> str:
+    """
+    Turns any feeling into perspective.
 
-GitHub Streaks | GitHub Stats | Top Languages |
-| --- | --- | --- |
-![Aditya's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=adityarajsahu&&show_icons=true&theme=radical) | ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityarajsahu&&show_icons=true&theme=radical) | ![Aditya's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityarajsahu&&show_icons=true&theme=radical) |
+    Input  : how you're feeling right now (e.g. "stuck", "lost", "tired")
+    Output : a reminder that you're capable of changing the world
+    """
+    return (
+        f"So you're feeling {feeling}? Here's something to remember:\n\n"
+        "'When you grow up you tend to get told that the world is the way it is...\n"
+        " Life can be much broader once you discover one simple fact:\n"
+        " Everything around you that you call life was made up by people\n"
+        " that were no smarter than you. And you can change it, you can influence it…\n"
+        " Once you learn that, you'll never be the same again.'\n\n"
+        "                                                        — Steve Jobs"
+    )
+
+>>> get_motivated("stuck")
+```
+
+---
+<img width="50%" align="right" alt="Coding GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJydHo4YWszbWs3aGRycnJnZmZheWJnaHg5Y3BwMnpmdmZybnNydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ucByq0Z570KzOiUQlU/giphy.gif" />
+
+### 👨‍💻 About Me
+
+- 🔭 Currently working on **Agentic, Multimodal & Edge AI** at Miko.ai
+
+- 🧠 Deep into teaching machines to see, think, and occasionally hallucinate responsibly
+
+- 🌱 Always exploring new ways to push **inference speed** to the limit
+
+- 👯 Open to collaborate on **AI/ML research & production systems**
+
+- 🏆 3× Hackathon Winner — AWS (2×) & Dr. Reddy's
+
+- 👨‍💻 All my projects are at [github.com/adityarajsahu](https://github.com/adityarajsahu?tab=repositories)
+
+- 💬 Ask me about AI, or literally anything — I'll somehow relate it back to AI 😅
+
+- 📫 Reach me at **adityaraj2019.sahu@gmail.com**
+
+- ⚡ Fun fact: **I thought frontend development was easy 😓**
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**ML & Deep Learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-A020F0?style=for-the-badge&logo=google&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-FFD21E?style=for-the-badge&logo=onnx&logoColor=black)
+
+**Inference & Serving**
+
+![vLLM](https://img.shields.io/badge/vLLM-6D28D9?style=for-the-badge&logo=speedtest&logoColor=white)
+![Triton](https://img.shields.io/badge/Triton_Inference-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=google&logoColor=white)
+
+**Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-FF4154?style=for-the-badge&logo=qdrant&logoColor=white)
+
+**Specializations**
+
+![LLMs](https://img.shields.io/badge/LLMs-8B5CF6?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-06B6D4?style=flat-square)
+![Diffusion Models](https://img.shields.io/badge/Diffusion_Models-EC4899?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-10B981?style=flat-square)
+![LoRA/SFT](https://img.shields.io/badge/LoRA%20%7C%20SFT-F59E0B?style=flat-square)
+![GRPO](https://img.shields.io/badge/GRPO-EF4444?style=flat-square)
+![Quantization](https://img.shields.io/badge/Quantization-6366F1?style=flat-square)
+![TTS](https://img.shields.io/badge/Text--to--Speech-14B8A6?style=flat-square)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165px" src="https://github-readme-stats.vercel.app/api?username=adityarajsahu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=a78bfa&count_private=true"/>
+<img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityarajsahu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
+<img height="165px" src="https://github-readme-streak-stats.herokuapp.com?user=adityarajsahu&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityarajsahu&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=6d28d9&point=f59e0b" width="95%"/>
+</div>
+
+---
+
+## 🐍 Watch my contributions get eaten
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/adityarajsahu/adityarajsahu/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"/>
+  <em><b>I love connecting with people</b> — drop a hello at <a href="mailto:adityaraj2019.sahu@gmail.com">adityaraj2019.sahu@gmail.com</a> 😊</em>
+</div>
