@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=AI+Engineer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Interested+in+LLMs+%2C+CV+%26+Multimodal+AI;Making+robots+understand+the+world+%F0%9F%A4%96" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=AI+Engineer+@+Miko+AI;Interested+in+LLMs+%2C+CV+%26+Multimodal+AI;Making+robots+understand+the+world+%F0%9F%A4%96" alt="Typing SVG" />
   </a>
 </p>
 
@@ -53,8 +53,6 @@ def get_motivated(feeling: str) -> str:
 - 🏆 3× Hackathon Winner — AWS (2×) & Dr. Reddy's
 
 - 💬 Ask me about AI, or literally anything — I'll somehow relate it back to AI 😅
-
-- 📫 Reach me at **adityaraj2019.sahu@gmail.com**
 
 - ⚡ Fun fact: **I thought frontend development was easy 😓**
 
