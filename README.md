@@ -112,18 +112,10 @@ def get_motivated(feeling: str) -> str:
 
 <div align="center">
 
-<img height="165px" src="https://github-readme-stats.vercel.app/api?username=adityarajsahu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=a78bfa&count_private=true"/>
-<img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityarajsahu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
+<img height="165px" src="https://github-readme-stats-fast.vercel.app/api?username=adityarajsahu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=a78bfa&count_private=true"/>
+<img height="165px" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=adityarajsahu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
 <img height="165px" src="https://github-readme-streak-stats.herokuapp.com?user=adityarajsahu&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa"/>
 
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityarajsahu&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=6d28d9&point=f59e0b" width="95%"/>
 </div>
 
 ---
